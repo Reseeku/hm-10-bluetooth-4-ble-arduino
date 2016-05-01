@@ -6,7 +6,7 @@
 
 * [Circuit Diagram](#circuit-diagram)
 * [Debugging](#debugging)
-* [Master / Slave Communication](#master-slave-communication)
+* [Master / Slave Communication](#master--slave-communication)
 
 ## Circuit Diagram
 Fritzing file: [prototype.fzz](https://github.com/gbaptista/hm-10-bluetooth-4-ble-arduino/raw/master/prototype.fzz)
