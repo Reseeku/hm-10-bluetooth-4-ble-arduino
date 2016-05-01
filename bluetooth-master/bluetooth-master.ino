@@ -7,7 +7,7 @@ void setup() {
 
   bluetooth_serial.begin(9600);
 
-  bluetooth_serial.print("AT+NAMESR-Master");
+  bluetooth_serial.print("AT+NAMETheMaster");
 
   bluetooth_serial.print("AT+ROLE1"); // Set Master (Central)
 
