@@ -11,6 +11,7 @@ void setup() {
 
   bluetooth_serial.print("AT+ROLE1"); // Set Master (Central)
 
+  // Send AT+RADD? on Slave to discover (whit debugger code)...
   bluetooth_serial.print("AT+CONXXXXXXXXXXXX"); // Connect to Slave
 }
 
