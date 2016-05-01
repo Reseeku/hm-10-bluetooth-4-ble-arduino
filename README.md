@@ -2,4 +2,7 @@
 
 #### Bluetooth Low Energy
 
+* [Circuit Diagram](#circuit-diagram)
+
+## Circuit Diagram
 [![Arduino Uno and Arduino Nano Fritzing Prototype Demo](https://github.com/gbaptista/hm-10-bluetooth-4-ble-arduino/raw/master/images/prototype_bb.png)](https://github.com/gbaptista/hm-10-bluetooth-4-ble-arduino/raw/master/images/prototype_bb.png)
